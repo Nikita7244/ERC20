@@ -1,1 +1,9 @@
-.env.example
+.env
+artifacts
+blockwhat
+cache
+deployments
+main
+node_modules
+typechain-types
+bash.rc
